@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "shparanet-20181223170158-authRole",
+            "UnauthRoleArn": "arn:aws:iam::770983629390:role/shparanet-20181223170158-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::770983629390:role/shparanet-20181223170158-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "shparanet-20181223170158-deployment",
+            "UnauthRoleName": "shparanet-20181223170158-unauthRole",
+            "StackName": "shparanet-20181223170158",
+            "StackId": "arn:aws:cloudformation:us-east-1:770983629390:stack/shparanet-20181223170158/c04c60e0-0706-11e9-8892-0efd3b0202da"
+        }
+    }
+}
